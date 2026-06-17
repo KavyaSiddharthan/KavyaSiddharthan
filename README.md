@@ -1,21 +1,37 @@
-## Hello, I am Kavya Siddharthan.
+## Hey There! I am Kavya S
 
-I am a Software Engineer specializing in mobile application development and backend architecture. I enjoy building clean, maintainable systems and exploring new engineering patterns.
+**Software Engineer | Mobile Application & Full Stack Developer**
 
-### My Work
-Here are a few projects I have been working on recently:
+I am a Software Engineer based in Chennai, currently working at Maksasoft Private Limited. I specialise in architecting and delivering robust full stack platforms and mobile applications.
 
-* **[Flutter Components Library](https://github.com/KavyaSiddharthan/flutter-components-lib)**
-  A modular collection of custom user interface components built with Flutter.
-* **[AI Resume Builder Backend](https://github.com/KavyaSiddharthan)**
-  A backend service built with Node.js and PostgreSQL for processing resume data.
-* **[AWS EC2 Automation](https://github.com/KavyaSiddharthan)**
-  Serverless infrastructure scripts for managing cloud resources.
+### Professional Experience
+**Current Role:** Software Engineer at Maksasoft.
 
-### Technical Focus
-* **Mobile**: Flutter, Dart
-* **Backend**: Java, Spring Boot, Node.js
-* **Infrastructure**: AWS, Docker, GitHub Actions
+**What I Do:**
+* Build scalable backend microservices and responsive mobile interfaces.
+* Implement cloud automation and serverless pipelines using AWS.
+* Optimise databases and system architectures for high performance.
 
-### Connect
-You can view my complete work history on my [Portfolio Website](https://kavyasiddportfolio.vercel.app/). Please feel free to reach out to me on LinkedIn.
+### Technical Arsenal
+
+**Programming Languages**
+Java, JavaScript, TypeScript, Dart
+
+**Frontend & Mobile**
+Flutter, React.js, TailwindCSS
+
+**Backend & Cloud**
+Spring Boot, Node.js, AWS, Docker
+
+**Databases**
+PostgreSQL, MySQL, DynamoDB
+
+### Contact Details
+In case of any queries or opportunities, Feel free to reach out to me:
+
+* **Email:** [kavyasiddharthan7@gmail.com](mailto:kavyasiddharthan7@gmail.com)
+* **LinkedIn:** [linkedin.com/in/kavyasiddharthan](https://linkedin.com/in/kavyasiddharthan)
+* **Portfolio:** [kavyasiddportfolio.vercel.app](https://kavyasiddportfolio.vercel.app/)
+
+Thanks and Regards,
+Kavya S
